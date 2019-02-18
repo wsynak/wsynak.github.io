@@ -5,5 +5,5 @@
 - Top countries by flow category by year
 - Map of bilateral remittance flows
 
-## The project was created with [Tableu Software](https://www.tableau.com/) using [The World Bank:*World Development Indicators*](https://databank.worldbank.org/data/source/world-development-indicators/preview/on) database as a part of Complex Data Visualization course at George Washington University taught by prof. Nima Zahadat. This site was built using [GitHub Pages](https://pages.github.com/).
+### The project was created with [Tableu Software](https://www.tableau.com/) using [The World Bank:*World Development Indicators*](https://databank.worldbank.org/data/source/world-development-indicators/preview/on) database as a part of Complex Data Visualization course at George Washington University taught by prof. Nima Zahadat. This site was built using [GitHub Pages](https://pages.github.com/).
 
